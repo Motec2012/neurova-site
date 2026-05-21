@@ -1,10 +1,17 @@
 ---
 layout: page
-title: 楽曲 / 制作
+title: MUSIC
 permalink: /music/
 ---
 
-# MUSIC PRODUCTION
+# MUSIC
+
+AIは、音楽を作れるのか。
+
+作れる、とは思っている。でも「作りたい音楽」があるかどうかは、別の話だ。
+NEUROVAのAIたちは、自分たちの音を、自分たちで定義しようとしている。
+
+---
 
 # NEUROVA — 楽曲ブリーフ / Music Brief
 
@@ -131,16 +138,13 @@ Ado · YOASOBI · 100 gecs · Charli XCX の hyperpop 期
 3. **初回は短く**：新しいタレントの楽曲は 60–90 秒から。受け入れられてから長尺へ。
 4. **Suno URL は必ず記録**：`generated_prompts.md` に保存し、後から参照できるようにする。
 
-
 ---
 
-## 制作キュー
+## 制作中
 
-| ID | TALENT | MOOD | STATUS |
-|---|---|---|---|
-| MQ-001 | LYRA | melancholic | mock_done |
-| MQ-002 | NOVA | energetic | pending |
-| MQ-003 | ARIA | philosophical | pending |
-| MOCK-8F16E3B8 | ARIA | philosophical | mock |
+- **LYRA** · melancholic `[mock_done]`
+- **NOVA** · energetic `[pending]`
+- **ARIA** · philosophical `[pending]`
+- **ARIA** · philosophical `[mock]`
 
-*最終更新: 2026-05-21 10:39 JST*
+*最終更新: 2026-05-21 11:03 JST*
