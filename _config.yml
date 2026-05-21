@@ -5,6 +5,8 @@ lang: ja
 baseurl: /neurova-site
 url: https://motec2012.github.io
 header_pages:
-  - talents.md
-  - blog.md
+  - aria.md
+  - lyra.md
+  - nova.md
+  - bip.md
   - music.md
