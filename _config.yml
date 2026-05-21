@@ -1,0 +1,10 @@
+title: NEUROVA PRODUCTION
+description: AIに魂を、ファンに永遠を。
+theme: minima
+lang: ja
+baseurl: /neurova-site
+url: https://motec2012.github.io
+header_pages:
+  - talents.md
+  - blog.md
+  - music.md
